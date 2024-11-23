@@ -14,7 +14,7 @@ int main(){
             else if(tieuThu<150)
                     printf("gia dien la 20,000 VND");
                 else if(tieuThu<200)
-                    printf("gia dien la 25,000 VND");
+                        printf("gia dien la 25,000 VND");
                     else 
                         printf("gia dien la 30,000 VND");
     else
